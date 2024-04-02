@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Systems Administration
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me on my mail
+- 📫 How to reach me? by mail 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
